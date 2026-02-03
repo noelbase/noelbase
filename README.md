@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&center=true&vCenter=true&width=900&color=38BDF8&lines=Noel+Exists.;Building+Things+That+Matter;ai+%26+machine+learning;python+%7C+backend+%7C+ml;always+learning+always+building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&center=true&vCenter=true&width=900&color=38BDF8&lines=Noel+Exists.;Building+Things+That+Matter;" />
 
 </p>
 
