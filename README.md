@@ -12,23 +12,26 @@
   <tr>
     <td width="65%" valign="top">
 
-🛠️ **I’m currently working on**  
-Cryptographic projects, full-stack web applications, and secure systems built with Python and modern frameworks.
+🛠️ **Currently messing with reality**  
+                💀
 
-🤝 **I’m looking to collaborate on**  
-AI/ML projects, open-source contributions, and innovative student-led technology initiatives.
+🤝 **Down to build with**  
+AI/ML enthusiasts, open-source adventurers, and people who actually finish projects.
 
-🆘 **I’m looking for help with**  
-Optimizing machine learning models, deploying applications, and designing scalable backend systems.
+🆘 **Occasionally fighting with**  
+Stubborn ml models, moody deployments, and backends that refuse to scale politely.
 
-🌱 **I’m currently learning**  
-Advanced Machine Learning concepts, backend system design, and real-world project deployment workflows.
+🌱 **Learning on purpose**  
+Advanced ml, system design mysteries, and the art of shipping without stress.
 
-💬 **Ask me about**  
-Python, Machine Learning fundamentals, Flask/Django web apps, and building practical student projects.
+💬 **Summon me for**  
+Python, ml basics, flask/django apps, and side projects that got way too serious.
 
 ⚡ **Fun fact**  
 I like turning chaos into clean, working code.
+
+
+
 
   </td>
   <td width="35%" align="right">
